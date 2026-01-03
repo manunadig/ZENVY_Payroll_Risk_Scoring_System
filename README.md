@@ -1,4 +1,4 @@
-ZENVY Payroll Risk Scoring System
+##ZENVY Payroll Risk Scoring System
 
 ## Project Overview
 
@@ -55,7 +55,7 @@ Additional features are derived to improve model performance:
 * Salary change percentage
 * Overtime-based risk indicators
 
-## xploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 * Payroll risk distribution
 * Salary anomalies vs risk
@@ -79,7 +79,7 @@ Three models are trained and evaluated:
 
    * Margin-maximizing classifier with strong theoretical guarantees
 
-## 📈 Model Evaluation Metrics
+## Model Evaluation Metrics
 
 Each model is evaluated using:
 
@@ -115,7 +115,7 @@ Random Forest feature importance highlights key risk drivers such as:
 
 This improves transparency and trust in predictions.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Pandas, NumPy
